@@ -1,4 +1,2 @@
-Hello my name is Ibrohim
-Nice to meet you Ibrohim
-New line
-Special line
+Hello Ibrohim
+This is brand new

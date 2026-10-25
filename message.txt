@@ -6,3 +6,5 @@ Abdulhay
 
 Abdulhaq
 Rahmonov
+
+Tags are useful to mark commits
